@@ -1,3 +1,5 @@
 This is a crtifcal message that I am going to ammend in the previous commmit alogn withthis file
 
 commit # 2 during squash activity.
+
+commit # 3 during squash activity.
