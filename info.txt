@@ -9,3 +9,5 @@ commit # 4 during squash activity.
 Commit # 5 to test the git head command.
 
 Commit # 6 during squash activity. 
+
+Commit # 7 during squash activity.
